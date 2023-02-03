@@ -44,4 +44,4 @@ BSc. in Computer Science from Korean Advanced Institute of Science and Technolog
 ## :page_facing_up: &nbsp; Recommendations
 - Woojeong Jeong from Wooksung Media, Inc | wjjeong@wooksungmedia.com | +82107077297034 | [click](https://drive.google.com/file/d/1QLb96-kXBJjXHTaMb8jngsnbMUnh_Brq/view), [click](https://drive.google.com/file/d/1HHiuEa8lD_fwjqeVRAM0pK5DQH849Iqv/view)
 - Bongki Mheen from ETRI | bkmheen@etri.re.kr | +82428606114 | [click](https://drive.google.com/file/d/15MhbkteuzFfwTCMwTH4reMTcriB7nhgL/view)
-- Jeong-woo Song from Weproper Inc. | sjungwoo@weprosper.ai | +821071398788 [click](https://drive.google.com/file/d/1J2bNpVNcZHqOK-wJZUtlKqDq1UYpEsHP/view?usp=sharing)
+- Jeong-woo Song from Weproper Inc. | sjungwoo@weprosper.ai | +821071398788 | [click](https://drive.google.com/file/d/1J2bNpVNcZHqOK-wJZUtlKqDq1UYpEsHP/view?usp=sharing)
