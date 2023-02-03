@@ -1,4 +1,6 @@
-# Hail, it is Qilman's profile [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff)](https://www.linkedin.com/in/gylmanbm/)
+# Hail, it is Qilman's profile [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff)](https://www.linkedin.com/in/gylmanbm/)<a href = "mailto:gylman@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
+
+
 
 I am not satisfied with just getting the job done, I strive for excellence in every project and push the boundaries of what's possible.
 > Do not disturb me with governmental, banking, law, gambling related projects
