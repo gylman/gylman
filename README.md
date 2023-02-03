@@ -1,7 +1,7 @@
 # Hail, it is Qilman's profile [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff)](https://www.linkedin.com/in/gylmanbm/)
 
 I am not satisfied with just getting the job done, I strive for excellence in every project and push the boundaries of what's possible.
-> Do not disturb me with governmental, banking, law related projects
+> Do not disturb me with governmental, banking, law, gambling related projects
 ## :closed_book: &nbsp; Education
 
 BSc. in Computer Science from Korean Advanced Institute of Science and Technology (KAIST), 2022
