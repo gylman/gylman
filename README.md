@@ -11,7 +11,7 @@ BSc. in Computer Science from Korean Advanced Institute of Science and Technolog
 ## :desktop_computer: &nbsp; Experience
 
 - **AKA INTELLIGENCE CO., LTD** 
-    - ![](https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react&logoColor=61DAFB)![](https://img.shields.io/badge/-SemanticUI-35BDB2?style=flat-square&logo=semanticuireact&logoColor=white)![](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=ffffff)![](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=Node.js&logoColor=ffffff) 
+    - ![](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=61DAFB)![](https://img.shields.io/badge/-SemanticUI-35BDB2?style=flat-square&logo=semanticuireact&logoColor=white)![](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=ffffff)![](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=Node.js&logoColor=ffffff) 
 - **WOOKSUNG MEDIA, INC.**
     - ![](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=61DAFB)![](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=ffffff)![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)![](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=Node&logoColor=ffffff)![](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=ffffff)
 - **LUCENTBLOCK, INC.**
