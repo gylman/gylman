@@ -3,7 +3,7 @@
 
 
 I am not satisfied with just getting the job done, I strive for excellence in every project and push the boundaries of what's possible.
-> Do not disturb me with governmental, banking, law, gambling related projects
+> Do not disturb me with governmental, banking, law, gambling, adult industry related projects
 ## :black_medium_square: &nbsp; Education
 
 BSc. in Computer Science from Korean Advanced Institute of Science and Technology (KAIST), 2022
