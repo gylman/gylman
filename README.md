@@ -34,7 +34,6 @@ BSc. in Computer Science from Korean Advanced Institute of Science and Technolog
 
 ## :black_medium_square: &nbsp; Recreational projects
 - [Product feedback](https://gylman-product-feedback.netlify.app/)
-- [Omnifood](https://gylman-omnifood-react.netlify.app/)
 - [Job listings](https://app.netlify.com/sites/gylman-job-listings/overview)
 
 ## :black_medium_square: &nbsp; Recommendations
