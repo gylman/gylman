@@ -32,7 +32,7 @@ BSc. in Computer Science from Korean Advanced Institute of Science and Technolog
 - pre-intermediate in Arabic, Korean
 
 
-## :black_medium_square: &nbsp; Recreational projects
+## :black_medium_square: &nbsp; Personal projects
 - [Product feedback](https://gylman-product-feedback.netlify.app/)
 - [Job listings](https://app.netlify.com/sites/gylman-job-listings/overview)
 
