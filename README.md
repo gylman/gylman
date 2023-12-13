@@ -22,7 +22,7 @@ BSc. in Computer Science from Korean Advanced Institute of Science and Technolog
 - [Product feedback](https://gylman-product-feedback.netlify.app/)
 - [Job listings](https://app.netlify.com/sites/gylman-job-listings/overview)
 
-**RECOMMENDATIONSs**
+**RECOMMENDATIONS**
 
 - Woojeong Jeong from Wooksung Media, Inc | wjjeong@wooksungmedia.com | +82107077297034 | [click](https://drive.google.com/file/d/1QLb96-kXBJjXHTaMb8jngsnbMUnh_Brq/view), [click](https://drive.google.com/file/d/1HHiuEa8lD_fwjqeVRAM0pK5DQH849Iqv/view)
 - Bongki Mheen from ETRI | bkmheen@etri.re.kr | +82428606114 | [click](https://drive.google.com/file/d/15MhbkteuzFfwTCMwTH4reMTcriB7nhgL/view)
