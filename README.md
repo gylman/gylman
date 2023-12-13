@@ -12,7 +12,7 @@ BSc. in Computer Science from Korean Advanced Institute of Science and Technolog
 
 - Rust, React
 
-**LANGUAGES**:
+**LANGUAGES**
 
 - fluent in English, Russian, Azerbaijani, Turkish
 - pre-intermediate in Arabic, Korean
