@@ -23,6 +23,7 @@ I am not satisfied with just getting the job done, I strive for excellence in ev
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ChainBreaker - ETHCON 2023 - MetaMask](https://devfolio.co/projects/chainbreaker-c5f6)
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GAS - ETHSeoul 2023 - Best use of existing subgraph](https://devfolio.co/projects/global-attendance-score-gas-7ee5)
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [EcoSync - Chainlink Constellation 2023](https://devpost.com/software/ecosync-3gzf5t?ref_content=my-projects-tab&ref_feature=my_projects)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SudoChain - ETHGlobal 2023](https://github.com/gylman/SudoChain)
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Product feedback](https://gylman-product-feedback.netlify.app/)
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Job listings](https://app.netlify.com/sites/gylman-job-listings/overview)
 
