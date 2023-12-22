@@ -4,26 +4,26 @@ I am not satisfied with just getting the job done, I strive for excellence in ev
 
 > Do not disturb me with governmental, banking, law, gambling, fashion, f&b, adult industry related projects
 
-**EDUCATION**
+#### EDUCATION
 
-BSc. in Computer Science from Korean Advanced Institute of Science and Technology (KAIST), 2022
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BSc. in Computer Science from Korean Advanced Institute of Science and Technology (KAIST), 2022
 
-**STACK**:
+#### STACK
 
-- Rust, React
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rust, React
 
-**LANGUAGES**
+#### LANGUAGES
 
-- fluent in English, Russian, Azerbaijani, Turkish
-- pre-intermediate in Arabic, Korean
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fluent: English, Russian, Azerbaijani, Turkish
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pre-intermediate: Arabic, Korean
 
-**PERSONAL PROJECTS**
+#### PERSONAL PROJECTS
 
-- [Product feedback](https://gylman-product-feedback.netlify.app/)
-- [Job listings](https://app.netlify.com/sites/gylman-job-listings/overview)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Product feedback](https://gylman-product-feedback.netlify.app/)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Job listings](https://app.netlify.com/sites/gylman-job-listings/overview)
 
-**RECOMMENDATIONS**
+#### RECOMMENDATIONS
 
-- Woojeong Jeong from Wooksung Media, Inc | wjjeong@wooksungmedia.com | +82107077297034 | [click](https://drive.google.com/file/d/1QLb96-kXBJjXHTaMb8jngsnbMUnh_Brq/view), [click](https://drive.google.com/file/d/1HHiuEa8lD_fwjqeVRAM0pK5DQH849Iqv/view)
-- Bongki Mheen from ETRI | bkmheen@etri.re.kr | +82428606114 | [click](https://drive.google.com/file/d/15MhbkteuzFfwTCMwTH4reMTcriB7nhgL/view)
-- Jeong-woo Song from Weproper Inc. | sjungwoo@weprosper.ai | +821071398788 | [click](https://drive.google.com/file/d/1J2bNpVNcZHqOK-wJZUtlKqDq1UYpEsHP/view?usp=sharing)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Woojeong Jeong from Wooksung Media, Inc | wjjeong@wooksungmedia.com | +82107077297034 | [click](https://drive.google.com/file/d/1QLb96-kXBJjXHTaMb8jngsnbMUnh_Brq/view), [click](https://drive.google.com/file/d/1HHiuEa8lD_fwjqeVRAM0pK5DQH849Iqv/view)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bongki Mheen from ETRI | bkmheen@etri.re.kr | +82428606114 | [click](https://drive.google.com/file/d/15MhbkteuzFfwTCMwTH4reMTcriB7nhgL/view)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jeong-woo Song from Weproper Inc. | sjungwoo@weprosper.ai | +821071398788 | [click](https://drive.google.com/file/d/1J2bNpVNcZHqOK-wJZUtlKqDq1UYpEsHP/view?usp=sharing)
