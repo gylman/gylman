@@ -10,7 +10,7 @@ I am not satisfied with just getting the job done, I strive for excellence in ev
 
 #### STACK
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rust, React
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rust, JS/TS, React
 
 #### LANGUAGES
 
