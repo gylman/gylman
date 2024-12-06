@@ -18,7 +18,8 @@ I am not satisfied with just getting the job done, I strive for excellence in ev
 
 #### PERSONAL PROJECTS
 
-- [1-st Place Winner | Flow Hackathon Season 2 Mobile track | ArtWalk](https://devfolio.co/projects/artwalk-f198) 
+- [1-st Place Winner | Flow Hackathon Season 2 Mobile track | ArtWalk](https://devfolio.co/projects/artwalk-f198)
+- [Winner | ETHBangkok 2024 | _sendPixel](https://ethglobal.com/showcase/sendpixel-85a0w) 
 - [Winner | Ethcon Korea 2023 | MetaMask | ChainBreaker](https://devfolio.co/projects/chainbreaker-c5f6)
 - [Winner | ETHSeoul 2023 | TheGraph | GAS](https://devfolio.co/projects/global-attendance-score-gas-7ee5)
 - [Chainlink Constellation 2023 | EcoSync](https://devpost.com/software/ecosync-3gzf5t?ref_content=my-projects-tab&ref_feature=my_projects)
