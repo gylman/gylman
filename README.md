@@ -6,7 +6,7 @@
 
 #### STACK
 
-- Rust, JavaScript, TypeScript, React, Solidity
+- TypeScript, React, Solidity, Rust
 
 #### LANGUAGES
 
