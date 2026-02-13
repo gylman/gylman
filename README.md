@@ -1,4 +1,4 @@
-# Qilman Beytullazada [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff)](https://www.linkedin.com/in/gylmanbm/)<a href="mailto:gylmanbm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
+# Qilman Beytullazada (geul-mahn) [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff)](https://www.linkedin.com/in/gylmanbm/)<a href="mailto:gylmanbm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
 
 #### EDUCATION
 
